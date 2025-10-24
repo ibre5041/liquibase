@@ -69,11 +69,11 @@ liquibase:
           "8.0":
             version: 8.0
 
-      # oracle:
-      #   imageName: gvenzl/oracle-xe
-      #   version: 18-slim
-      #   setup:
-      #     username: system
+      oracle:
+        imageName: gvenzl/oracle-xe
+        version: 18-slim
+        setup:
+          username: system
 
       postgresql:
         imageName: postgres
