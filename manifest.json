@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T14:42:39Z",
+  "lastUpdated": "2026-09-17T14:50:08Z",
   "images": {
     "liquibase/liquibase": [
       "5.0.4",
@@ -77,7 +77,7 @@
     "liquibase/liquibase:5.0.1": "success",
     "liquibase/liquibase:5.0.2": "success",
     "liquibase/liquibase:5.0.3": "success",
-    "liquibase/liquibase:5.0.4": "failed",
+    "liquibase/liquibase:5.0.4": "success",
     "liquibase/liquibase:3.10": "success",
     "liquibase/liquibase:3.10.3": "success",
     "liquibase/liquibase:4.1": "success",
