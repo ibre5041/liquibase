@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a0afce-917a-7794-8707-2e2ac1594f16",
-  "CreatedAt": "2026-09-17T14:39:05.59449779Z",
+  "ReportID": "01a0b4da-3566-7712-accb-a9ec531407d5",
+  "CreatedAt": "2026-09-18T14:09:54.534465267Z",
   "ArtifactID": "sha256:3b3119706bb9d14069b5eab36a4d25f9d2ebce093c7324d7a1168011c1ce94ed",
   "ArtifactName": "liquibase/liquibase:3.10",
   "ArtifactType": "container_image",
@@ -18834,7 +18834,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -21825,7 +21825,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -22476,7 +22476,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 4,
             "bottlerocket": 2,
             "cbl-mariner": 4,
